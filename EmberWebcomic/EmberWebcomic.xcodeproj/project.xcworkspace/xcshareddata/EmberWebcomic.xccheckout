@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>01C3F1D9-B4E1-4F94-A833-BCE11769E507</string>
+	<key>IDESourceControlProjectName</key>
+	<string>EmberWebcomic</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>003198A7-E623-4800-A690-A4B1B332E3CF</key>
+		<string>https://github.com/erb325/webcomic.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>EmberWebcomic/EmberWebcomic.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>003198A7-E623-4800-A690-A4B1B332E3CF</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/erb325/webcomic.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>003198A7-E623-4800-A690-A4B1B332E3CF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>003198A7-E623-4800-A690-A4B1B332E3CF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>webcomic</string>
+		</dict>
+	</array>
+</dict>
+</plist>
